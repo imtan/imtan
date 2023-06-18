@@ -1,5 +1,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,nim,aws,mysql,postgres,emacs,vscode" />
+  </a>
+</p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtan&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=imtan&theme=onedark&show_icons=ture" />
