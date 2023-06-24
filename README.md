@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,nim,aws,mysql,postgres,emacs,vscode,go" />
+   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,nim,go,aws,mysql,postgres,emacs,vscode" />
   </a>
 </p>
 <p align="left"> 
