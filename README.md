@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,nim,aws,mysql,postgres,emacs,vscode" />
+   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,nim,aws,mysql,postgres,emacs,vscode,go" />
   </a>
 </p>
 <p align="left"> 
@@ -10,7 +10,7 @@
 </p>
 
 # スキルセット 💻
-- 言語: Ruby, C#, Javascript, Python
+- 言語: Ruby, C#, Javascript, Python, Go
 - フレームワーク: Ruby on Rails, React, Django
 - データベース: MySQL, PostgreSQL, Redis
 - クラウドプラットフォーム: AWS, Google Cloud Platform
