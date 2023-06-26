@@ -40,6 +40,12 @@
 - GLSL等のシェーディング言語
  
 # その他活動
+
+## 学士・修士時の活動
+- [ROSE compiler Framework](https://en.wikipedia.org/wiki/ROSE_(compiler_framework))によるコード最適化に関する研究
+- スマートコントラクトとサイドチェーンの実用化に関する研究
+- 株式会社ventusの立ち上げ
+
 ## ゲーム開発　🎮
 **[ノロワレサイクル(開発中)](https://store.steampowered.com/app/2183820/_/)**
 
