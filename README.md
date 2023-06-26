@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,nim,go,aws,mysql,postgres,emacs,vscode" />
+   <img src="https://skillicons.dev/icons?i=js,ruby,python,cs,solidity,nim,go,aws,mysql,postgres,emacs,vscode" />
   </a>
 </p>
 <p align="left"> 
@@ -10,7 +10,7 @@
 </p>
 
 # スキルセット 💻
-- 言語: Ruby, C#, Javascript, Python, Go
+- 言語: Ruby, C#, Javascript, Python, Go, Solidity
 - フレームワーク: Ruby on Rails, React, Django
 - データベース: MySQL, PostgreSQL, Redis
 - クラウドプラットフォーム: AWS, Google Cloud Platform
@@ -29,7 +29,7 @@
 - 職務: Webアプリケーションの開発を主とした業務委託
  
 **2018/12 - 2020/6: 株式会社ventus**
-- 職務: サーバーサイドエンジニアとして従事
+- 職務: ブロックチェーンエンジニア、サーバーサイドエンジニア、CTOとして立ち上げ時から従事
 
 **2016/1 - 2017/9: フリーランスライター**
 - 職務: ゲームニュース執筆
